@@ -31,6 +31,6 @@ Los datos provienen de la encuesta realizada por el canal de ofertas de Telegram
 ## Requisitos
 
 - **Python:** Versión 3.7 o superior.
-- **Bibliotecas:** Streamlit, Pandas, Matplotlib (y otras especificadas en `requirements.txt`).
+
 
 
